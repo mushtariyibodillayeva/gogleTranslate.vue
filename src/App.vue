@@ -15,8 +15,13 @@
       Вы сможете понимать других и выражать свои мысли на разных языках
     </h1>
     <div class="wrapper">
-      <img src="./components/google-play-badge.webp" alt="img" />
-      <img src="./components/app-store-badge.webp" alt="img" class="icon2" />
+      <a
+        href="https://play.google.com/store/apps/details?id=com.google.android.apps.translate"
+        ><img src="./components/google-play-badge.webp" alt="img"
+      /></a>
+      <a href="https://apps.apple.com/us/app/apple-store/id414706506"
+        ><img src="./components/app-store-badge.webp" alt="img" class="icon2"
+      /></a>
     </div>
     <img src="./components/banner.webp" alt="img" class="banner-img" />
   </div>
